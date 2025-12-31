@@ -607,7 +607,7 @@ case 'menu': {
               await socket.sendMessage(msg.key.remoteJid, { react: { text: "🤖", key: msg.key }}, { quoted: msg });
               const freebotMsg = `🌟 *CONNECT FREE BOT*\n\n` +
                 `To connect QUEEN ROPA to your WhatsApp:\n\n` +
-                `1. Visit our website https://minibot-anugasenithu.zone.id or\n` +
+                `1. Visit our website https://queen-ropa.vercel.app or\n` +
                 `2. Use the pairing system\n` +
                 `3. Get your personal bot instance\n\n` +
                 `*Features:*\n` +
