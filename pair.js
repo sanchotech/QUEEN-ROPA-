@@ -47,7 +47,7 @@ const config = {
     NEWS_JSON_URL: '',
     BOT_NAME: 'QUEEN ROPA',
     OWNER_NAME: 'Sancho Tech',
-    OWNER_NUMBER: '263780325289,
+    OWNER_NUMBER: 263780325289,
     BOT_VERSION: '1.0.0',
     BOT_FOOTER: '> powered by SanchoTech',
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBE7xbFCCoTEjmgV73v',
